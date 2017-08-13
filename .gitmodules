@@ -710,3 +710,7 @@
 	path = extensions/PdfBook
 	url = https://github.com/OrganicDesign/extensions
 	branch = REL1_28
+[submodule "mediawiki-vendor"]
+	path = mediawiki-vendor
+	url = https://github.com/wikimedia/mediawiki-vendor
+	branch = REL1_29
